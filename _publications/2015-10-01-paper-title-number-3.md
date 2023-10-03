@@ -3,7 +3,7 @@ title: "Tensor Principal Component Analysis"
 collection: submitted
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
-date: 2009-10-01
+date: 2015-10-01
 venue:
 paperurl: 'https://arxiv.org/abs/2212.12981'
 citation:

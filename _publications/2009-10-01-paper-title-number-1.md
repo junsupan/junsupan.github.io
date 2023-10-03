@@ -3,7 +3,7 @@ title: "High-dimensional Dynamic Portfolio Selection with Machine Learning"
 collection: working
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt:
-date: 2015-10-01
+date: 2009-10-01
 venue: 'Journal 1'
 paperurl:
 citation:
