@@ -14,4 +14,6 @@ Submitted for publication
 
 [Download paper here](https://arxiv.org/abs/2212.12981)
 
+[Replication package - Matlab](https://github.com/junsupan/TensorPCA_MatLab)
+
 Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor Principal Component Analysis." *arXiv preprint arXiv:2212.12981* (2022).
