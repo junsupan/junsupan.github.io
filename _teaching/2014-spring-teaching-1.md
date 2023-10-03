@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UNC Chapel Hill, Economics department"
+date: 2018-01-01
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+UNC Chapel Hill, Economics department
 
-Heading 1
-======
+ECON 876: Introduction to Empirical Finance
+2 semesters
 
-Heading 2
-======
+ECON 771: Econometrics
+3 semesters
 
-Heading 3
-======
+ECON 400: Introduction to Data Science and Econometrics
+1 semester
+
+ECON 101: Introduction to Economics
+4 semesters

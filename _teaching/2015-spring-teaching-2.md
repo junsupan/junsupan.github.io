@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type:
+permalink: /teaching/2015-spring-teaching-2
+venue: "UNC Chapel Hill, Economics department"
+date: 2020-01-01
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+UNC Chapel Hill, Economics department
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ECON 101: Introduction to Economics
+Summer 2020
