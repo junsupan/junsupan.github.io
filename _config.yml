@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Junsu Pan"
-  avatar           : "profile.png"
+  avatar           : "IMG_4373.png"
   bio              : "I am a Ph.D. candidate studying economics, with research interest in econometrics and financial econometrics."
   location         : "Chapel Hill, NC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "junsupan@live.unc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Junsu-Pan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "junsupan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/junsu-pan-263641133"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
