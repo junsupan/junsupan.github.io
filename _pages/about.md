@@ -42,4 +42,4 @@ The advantages of TPCA:
 1. closed-form estimators, avoids non-convex optimization,
 1. allows sequential computation of factors.
 
-To read more about this algorithm, the theoretical results, Monte Carlo simulations, and empirical application, please [click here](https://arxiv.org/abs/2212.12981) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.
+To read more about this algorithm, the theoretical results, Monte Carlo simulations, and the empirical application, please [click here](https://arxiv.org/abs/2212.12981) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.
