@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Junsu Pan"
   avatar           : "IMG_4373.png"
-  bio              : "I am a Ph.D. candidate studying economics, with research interest in econometrics and financial econometrics."
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Chapel Hill, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "junsupan@live.unc.edu"
   researchgate     : "https://www.researchgate.net/profile/Junsu-Pan"
