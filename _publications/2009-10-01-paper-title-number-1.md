@@ -1,15 +1,15 @@
 ---
-title: "Tensor Principal Component Analysis"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+title: "High-dimensional Dynamic Portfolio Selection with Machine Learning"
+collection: working
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt:
+date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/2212.12981'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl:
+citation:
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper extends the static Markowitz portfolio choice to a dynamic and conditional problem by modeling portfolio weights as a function of characteristics, and incorporates a LASSO-type penalty to select the high-dimensional function coefficients. It outperforms the dynamic portfolio choice problem without a LASSO penalty and the benchmark of static and equally weighted portfolios in terms of out-of-sample Sharpe ratios.
 
-[Download paper here](https://arxiv.org/abs/2212.12981)
+<!--[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).-->
