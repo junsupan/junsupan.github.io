@@ -39,7 +39,7 @@ layout: default
         {% elsif page.collection == 'publications' %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'submitted' %}
-          <p>Submitted at <i>{{ page.venue }}</i> </p>
+          <p>Submitted for publication </p>
         {% elsif page.collection == 'working' %}
           <p>Work in progress <i>{{ page.venue }}</i> </p>
         {% elsif page.date %}
