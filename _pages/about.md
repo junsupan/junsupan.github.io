@@ -3,13 +3,15 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. candidate in economics specializing in econometrics, financial econometrics and applied econometrics. 
+I am a Ph.D. candidate in economics specializing in econometrics, financial econometrics, asset pricing, and applied econometrics.
 
-With degrees in a diverse range of subjects including mathematics, economics, finance, and management, I possess a unique ability to approach challenges from multiple perspectives. My rigorous academic training has honed my quantitative analytical skills, enabling me to dissect complex issues with precision and depth.
+I am working on projects that involve tensors, factor models, portfolio selection, machine learning, etc.
 
+A brief introduction to my job market paper:
 
+A factor model aims to explain the co-movements of large number variables (observable) with only a few factors (latent variables). 

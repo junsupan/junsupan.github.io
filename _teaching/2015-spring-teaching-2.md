@@ -10,5 +10,5 @@ location: "Chapel Hill, NC"
 
 UNC Chapel Hill, Economics department
 
-ECON 101: Introduction to Economics
+ECON 101: Introduction to Economics\
 Summer 2020
