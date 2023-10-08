@@ -35,7 +35,7 @@ Then a factor model for a 3rd order tensor would look like:
 
 ![This is an alt text.](/files/tensor_CPD.png)
 
-We developed the factor model for any *d*-dimensional tensors which is an extension of the traditional factor models, and it is called *tensor factor model*. It allows to identify the loadings associated with the additional dimensions. For estimation of the *tensor factor model*, we also developed an algorithm that is called *Tensor Principal Component Analysis* (TPCA).
+We developed the factor model for any *d*-dimensional tensors which is an extension of the traditional factor models, and it is called *tensor factor model*. It allows to identify the loadings associated with the additional dimensions. For estimation of the *tensor factor model*, we also designed an algorithm that is called *Tensor Principal Component Analysis* (TPCA).
 
 The advantages of TPCA:
 1. easy to use in practice: based on PCA,
