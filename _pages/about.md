@@ -17,13 +17,13 @@ A brief introduction to my job market paper:
 
 A factor model aims to explain the **co-movements** of large number variables (observable) with only a few factors (variables). For example, a collection of large number of asset returns can be explained by a small number of *"risk factors"* which includes, eg., the market risk, firm size risk, book-market ratio risk, etc. The intuition is that holding each asset should be compensated based on how risky it is, a more risky asset should be expected to pay higher returns for holding such risks, and this is called "risk premium". In the factor model of asset returns, "factor loadings" measure the level of risk for each risk factor.
 
-To visualize a factor model:
+To visualize a **factor model**:
 
 ![This is an alt text.](/files/SVD.png)
 
 However, traditional factor models can only be applied to matrices (panel data), which only has two dimensions - temporal and cross-section. What happens if the data is of more than two dimensions, i.e., a tensor?
 
-A tensor is a higher dimensional array - an extension of vectors and matrices:
+A tensor is a **higher dimensional array** - an extension of vectors and matrices:
 
 ![This is an alt text.](/files/Tensors.png)
 
@@ -37,14 +37,14 @@ Then a factor model for a 3rd order tensor would look like:
 
 We developed the factor model for any *d*-dimensional tensors which is an extension of the traditional factor models, and it is called *tensor factor model*.
 
-The benefits of using *tensor factor model*:
+The benefits of using ***tensor factor model***:
 1. it allows to identify the loadings associated with the additional dimensions,
 1. the theory and simulations show improved estimation accuracy with more tensor dimensions,
 1. model complexity (# of parameters) is significantly reduced compared to traditional one when you have a tensor data.
 
 For estimation of the *tensor factor model*, we designed an algorithm that is called *Tensor Principal Component Analysis (TPCA)*.
 
-The advantages of *TPCA*:
+The advantages of ***TPCA***:
 1. easy to use in practice: based on PCA,
 1. closed-form estimators, avoids non-convex optimization,
 1. allows sequential computation of factors.
