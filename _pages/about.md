@@ -35,11 +35,18 @@ Then a factor model for a 3rd order tensor would look like:
 
 ![This is an alt text.](/files/tensor_CPD.png)
 
-We developed the factor model for any *d*-dimensional tensors which is an extension of the traditional factor models, and it is called *tensor factor model*. It allows to identify the loadings associated with the additional dimensions. For estimation of the *tensor factor model*, we also designed an algorithm that is called *Tensor Principal Component Analysis* (TPCA).
+We developed the factor model for any *d*-dimensional tensors which is an extension of the traditional factor models, and it is called *tensor factor model*.
 
-The advantages of TPCA:
+The benefits of using *tensor factor model*:
+1. it allows to identify the loadings associated with the additional dimensions,
+1. the theory and simulations show improved estimation accuracy with more tensor dimensions,
+1. model complexity (# of parameters) is significantly reduced compared to traditional one when you have a tensor data.
+
+For estimation of the *tensor factor model*, we designed an algorithm that is called *Tensor Principal Component Analysis (TPCA)*.
+
+The advantages of *TPCA*:
 1. easy to use in practice: based on PCA,
 1. closed-form estimators, avoids non-convex optimization,
 1. allows sequential computation of factors.
 
-To read more about this algorithm, the theoretical results, the hypothesis test for selecting number of factors, Monte Carlo simulations, and the empirical application, please [click here](https://arxiv.org/abs/2212.12981) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.
+To read more about this algorithm, the theoretical results, the hypothesis test for selecting number of factors, Monte Carlo simulations, and an empirical application, please [click here](https://arxiv.org/abs/2212.12981) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.
