@@ -15,7 +15,7 @@ I am working on projects that involve tensors, factor models, portfolio selectio
 ## "Tensor Principal Component Analysis"
 A brief introduction to my job market paper:
 
-A traditional **factor model** aims to explain the **co-movements** of large number of variables (observable) with only a few factors (unobservable). For example, a collection of large number of asset returns can be explained by a small number of *"risk factors"* which includes, eg., the market risk, firm size risk, book-market ratio risk, etc. The intuition is that holding each asset should be compensated based on how risky it is, a more risky asset should be expected to pay higher returns for holding such risks, and this is called "risk premium". In the factor model of asset returns, "factor loadings" measure the level of risk for each risk factor.
+A traditional **factor model** aims to explain the **co-movements** of large number of variables (observable) with only a few factors (unobservable). For example, a collection of large number of asset returns can be explained by a small number of *"risk factors"* which includes, e.g., the market risk, firm size risk, book-market ratio risk, etc. The intuition is that holding each asset should be compensated based on how risky it is, a more risky asset should be expected to pay higher returns for holding such risks, and this is called "risk premium". In factor models, "factor loadings" are the coefficients that capture the cross-sectional heterogeneity. In the asset returns example, they measure the level of risk for each asset.
 
 To visualize a **factor model**:
 
