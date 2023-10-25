@@ -7,7 +7,7 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-  - title: "Working/Teaching"
+  - title: "Teaching/Working"
     url: /teaching/
 
 #  - title: "Portfolio"
@@ -17,7 +17,7 @@ main:
 #    url: /year-archive/
 
   - title: "CV"
-    url: https://junsupan.github.io/_pages/Curriculum%20Vitae.pdf
+    url: https://junsupan.github.io/files/Curriculum%20Vitae.pdf
 
 #  - title: "Guide"
 #    url: /markdown/
