@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching/Working Experience"
+title: "Teaching/Work Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
+## Teaching Experience
 
 **Instructor,** UNC Chapel Hill, Economics department
 
@@ -25,6 +25,6 @@ author_profile: true
 * ECON 101: Introduction to Economics\
 4 semesters
 
-## Working
+## Work Experience
 
 **Ph.D. Intern,** NERA Economic Consulting
