@@ -28,23 +28,3 @@ author_profile: true
 ## Working
 
 **Ph.D. Intern,** NERA Economic Consulting
-
-
-
-<!-- HTML
----
-layout: archive
-title: "Teaching/Working Experience"
-permalink: /teaching/
-author_profile: true
----
-
-
-
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
