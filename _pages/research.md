@@ -19,10 +19,10 @@ Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor Prin
 
 ## Working Paper
 
-**"High-dimensional Dynamic Portfolio Selection with Machine Learning"**
+**"High-Dimensional Dynamic Portfolio Selection with Machine Learning"**
 
 ## Work in Progress
 
 **“Conditional Asset Pricing Factor Models with Firm Characteristics Tensor Data”** with Andrii Babii and Eric Ghysels
 
-**“Identification and Estimation of Factor Models Through Skewness”** with Andrii Babii and Eric Ghysels
+**“Identification and Estimation of Factor Models Through Coskewness Tensor”** with Andrii Babii and Eric Ghysels
