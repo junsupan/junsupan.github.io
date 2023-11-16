@@ -7,10 +7,10 @@ author_profile: true
 
 ## Advisors
 
-**Eric Ghysels**\ *(chair)*
+**Eric Ghysels** *(chair)*\
 University of North Carolina, Department of Economics & Department of Finance
 
-**Andrii Babii**\ *(co-chair)*
+**Andrii Babii** *(co-chair)*\
 University of North Carolina, Department of Economics
 
 ## Dissertation Committee
