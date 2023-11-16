@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in economics specializing in econometrics, financial econometrics, asset pricing, and applied econometrics.
 
-I am working on projects that involve tensors, factor models, portfolio selection, machine learning, etc.
+I am working on projects that involve higher-dimensional arrays, factor models, portfolio selection, and machine learning, among others.
 
 ## "Tensor Principal Component Analysis"
 A brief introduction to my job market paper:
