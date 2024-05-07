@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in economics specializing in econometrics, financial econometrics, asset pricing, and applied econometrics.
+I received my Ph.D. in economics from UNC-Chapel Hill. My research interests are econometrics, financial econometrics, asset pricing, and applied econometrics.
 
-I am working on projects that involve higher-dimensional arrays, factor models, portfolio selection, and machine learning, among others.
+I am working on projects that involve higher-dimensional arrays (tensors), factor models, portfolio selection, and machine learning, among others.
 
 ## "Tensor Principal Component Analysis"
 A brief introduction to my job market paper:

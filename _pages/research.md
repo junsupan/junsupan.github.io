@@ -19,7 +19,9 @@ Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor Prin
 
 ## Working Paper
 
-**"High-Dimensional Dynamic Portfolio Selection with Machine Learning"**
+**"Missing Financial Data: Filling the Tensor Blanks"** with Andrii Babii, Eric Ghysels, and Jiaxi Li
+
+**"Dynamic Portfolio Selection with Regularization"**
 
 ## Work in Progress
 

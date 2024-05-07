@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Junsu Pan"
 title_separator          : "-"
 name                     : &name "Junsu Pan"
-description              : &description "Ph.D. Candidate in Economics at UNC Chapel Hill"
+description              : &description "Ph.D. in Economics at UNC Chapel Hill"
 url                      : https://junsupan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junsupan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junsu Pan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : "Ph.D. in Economics"
   location         :
   employer         : "University of North Carolina <br>   at Chapel Hill"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

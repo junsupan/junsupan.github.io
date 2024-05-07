@@ -14,10 +14,10 @@ author_profile: true
 **Teaching Assistant,** UNC Chapel Hill, Economics department
 
 * ECON 876: Introduction to Empirical Finance\
-2 semesters
+3 semesters
 
 * ECON 771: Econometrics\
-3 semesters
+4 semesters
 
 * ECON 400: Introduction to Data Science and Econometrics\
 1 semester
