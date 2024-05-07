@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+## Publications
 
 **"Tensor Principal Component Analysis"** with Andrii Babii and Eric Ghysels, *submitted*
 
@@ -17,7 +17,7 @@ author_profile: true
 
 Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor Principal Component Analysis." *arXiv preprint arXiv:2212.12981* (2022).
 
-## Working Paper
+## Working Papers
 
 **"Missing Financial Data: Filling the Tensor Blanks"** with Andrii Babii, Eric Ghysels, and Jiaxi Li
 
