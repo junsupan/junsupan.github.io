@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in economics from UNC-Chapel Hill. My research interests are econometrics, financial econometrics, asset pricing, and applied econometrics.
-
-I am working on projects that involve higher-dimensional arrays (tensors), factor models, portfolio selection, and machine learning, among others.
+I received my Ph.D. in economics from UNC-Chapel Hill. My research interests are financial econometrics and machine learning.
 
 ## "Tensor Principal Component Analysis"
-A brief introduction to my job market paper:
+A brief introduction:
 
 A traditional **factor model** aims to explain the **co-movements** of large number of variables (observable) with only a few factors (unobservable). For example, a collection of large number of asset returns can be explained by a small number of *"risk factors"* which includes, e.g., the market risk, firm size risk, book-market ratio risk, and so on. The intuition is that holding each asset should be compensated based on how risky it is, a more risky asset should be expected to pay higher returns for holding such risks, and this is called "risk premium". In factor models, "factor loadings" are the coefficients that capture the cross-sectional heterogeneity. In the asset returns example, they measure the level of risk for each asset.
 

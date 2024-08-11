@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-**"Tensor Principal Component Analysis"** with Andrii Babii and Eric Ghysels, *submitted*
+**"Tensor Principal Component Analysis"** with Andrii Babii and Eric Ghysels, *R&R*
 
 *Abstract:* In this paper, we develop new methods for analyzing high-dimensional tensor datasets. A tensor factor model describes a high-dimensional dataset as a sum of a low-rank component and an idiosyncratic noise, generalizing traditional factor models for panel data. We propose an estimation algorithm, called tensor principal component analysis (TPCA), which generalizes the traditional PCA applicable to panel data. The algorithm involves unfolding the tensor into a sequence of matrices along different dimensions and applying PCA to the unfolded matrices. We provide theoretical results on the consistency and asymptotic distribution for the TPCA estimator of loadings and factors. We also introduce a novel test for the number of factors in a tensor factor model. The TPCA and the test feature good performance in Monte Carlo experiments and are applied to sorted portfolios.
 

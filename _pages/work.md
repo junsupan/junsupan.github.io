@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Teaching/Work Experience"
-permalink: /teaching/
+title: "Work Experience"
+permalink: /work/
 author_profile: true
 ---
+
+## Work Experience
+
+**Manager (Data Science),** Deposit Modeling
+
+**Ph.D. Intern,** NERA Economic Consulting
 
 ## Teaching Experience
 
@@ -24,7 +30,3 @@ author_profile: true
 
 * ECON 101: Introduction to Economics\
 4 semesters
-
-## Work Experience
-
-**Ph.D. Intern,** NERA Economic Consulting
