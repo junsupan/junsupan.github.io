@@ -10,7 +10,7 @@ redirect_from:
 
 I received my Ph.D. in economics from UNC-Chapel Hill. My research interests are financial econometrics and machine learning.
 
-## "Tensor Principal Component Analysis"
+## "Tensor PCA for Factor Models"
 A brief introduction:
 
 A traditional **factor model** aims to explain the **co-movements** of large number of variables (observable) with only a few factors (unobservable). For example, a collection of large number of asset returns can be explained by a small number of *"risk factors"* which includes, e.g., the market risk, firm size risk, book-market ratio risk, and so on. The intuition is that holding each asset should be compensated based on how risky it is, a more risky asset should be expected to pay higher returns for holding such risks, and this is called "risk premium". In factor models, "factor loadings" are the coefficients that capture the cross-sectional heterogeneity. In the asset returns example, they measure the level of risk for each asset.
@@ -47,4 +47,4 @@ The advantages of ***TPCA***:
 1. closed-form estimators, avoids non-convex optimization,
 1. allows sequential computation of factors.
 
-To read more about this algorithm, the theoretical results, the hypothesis test for selecting number of factors, Monte Carlo simulations, and an empirical application, please [click here](https://arxiv.org/abs/2212.12981) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.
+To read more about this algorithm, the theoretical results, the hypothesis test for selecting number of factors, Monte Carlo simulations, and an empirical application, please [click here](https://www.researchgate.net/publication/366595904_Tensor_PCA_for_Factor_Models) to download the paper. To estimate your own tensor factor model, [click here](https://github.com/junsupan/TensorPCA) to install the Python package.

@@ -7,15 +7,15 @@ author_profile: true
 
 ## Publications
 
-**"Tensor Principal Component Analysis"** with Andrii Babii and Eric Ghysels, *R&R*
+**"Tensor PCA for Factor Models"** with Andrii Babii and Eric Ghysels, *R&R*
 
-*Abstract:* In this paper, we develop new methods for analyzing high-dimensional tensor datasets. A tensor factor model describes a high-dimensional dataset as a sum of a low-rank component and an idiosyncratic noise, generalizing traditional factor models for panel data. We propose an estimation algorithm, called tensor principal component analysis (TPCA), which generalizes the traditional PCA applicable to panel data. The algorithm involves unfolding the tensor into a sequence of matrices along different dimensions and applying PCA to the unfolded matrices. We provide theoretical results on the consistency and asymptotic distribution for the TPCA estimator of loadings and factors. We also introduce a novel test for the number of factors in a tensor factor model. The TPCA and the test feature good performance in Monte Carlo experiments and are applied to sorted portfolios.
+*Abstract:* Modern empirical analysis often relies on high-dimensional panel datasets with non-negligible cross-sectional and time-series correlations. Factor models are natural for capturing such dependencies. A tensor factor model describes the multidimensional panel as a sum of a low-rank component and idiosyncratic noise, generalizing traditional factor models for two-dimensional panels. We propose an estimation algorithm called tensor principal component analysis (TPCA) to estimate factors and loadings. We provide the asymptotic distribution theory and propose a test for the number of factors in a tensor factor model. The asymptotic results are supported by the Monte Carlo experiments, and the new tools are applied to sorted portfolios.
 
-[Download paper here](https://junsupan.github.io/files/Job%20Market%20Paper_Pan.pdf)
+[Download paper here](https://www.researchgate.net/publication/366595904_Tensor_PCA_for_Factor_Models)
 
 [Replication package - Matlab](https://github.com/junsupan/TensorPCA_MatLab)
 
-Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor Principal Component Analysis." *arXiv preprint arXiv:2212.12981* (2022).
+Recommended citation: Babii, Andrii, Ghysels, Eric, and Pan, Junsu. "Tensor PCA for Factor Models." (2024).
 
 ## Working Papers
 
