@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please contact my [email](junsupan1994@gmail.com) for most recent CV/resume.
+Please contact my [email](mailto:junsupan1994@gmail.com) for most recent CV/resume.
 
 <!---
 {% include base_path %}
