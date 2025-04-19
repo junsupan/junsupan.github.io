@@ -7,9 +7,11 @@ author_profile: true
 
 ## Work Experience
 
-**Manager (Data Science),** Deposit Modeling
+**Data Scientist, Research** -- Google (Current)
 
-**Ph.D. Intern,** NERA Economic Consulting
+**Manager (Data Science), Deposit Modeling** -- American Express
+
+**Ph.D. Intern** -- NERA Economic Consulting
 
 ## Teaching Experience
 
